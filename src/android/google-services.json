@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "124927619672",
+    "firebase_url": "https://single-duck.firebaseio.com",
+    "project_id": "single-duck",
+    "storage_bucket": "single-duck.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124927619672:android:45b34864604f234e",
+        "android_client_info": {
+          "package_name": "com.phonegap.dateorduck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124927619672-6mr1e54d3mukr3mdom8s8dqlmbc26qii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASQTjXouOgXrUGvhFBhANosjhKSpRso8Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
